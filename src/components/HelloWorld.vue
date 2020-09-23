@@ -3,8 +3,8 @@
     <h1>{{ msg }}</h1>
     <p>
       改变这一条<br>
-      <!-- <p>改变第二行</p>
-      <p>改变第三行</p> -->
+      <p>改变第二行</p>
+      <p>改变第三行</p>
       check out the
       <a href="https://cli.vuejs.org" target="_blank" rel="noopener">vue-cli documentation</a>.
     </p>
